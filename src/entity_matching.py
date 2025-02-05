@@ -1,72 +1,39 @@
-import spacy
-from rapidfuzz import fuzz
+# entity_matching.py
 
-# Lade das deutsche spaCy-Modell (mittlere Größe für Wort-Embeddings)
-nlp = spacy.load("de_core_news_md")
+import re
+from rapidfuzz import process, fuzz
 
-def find_entity_fuzzy(query, text, threshold=80):
+def find_best_match(entity_value: str, text: str, threshold: int = 70):
     """
-    Vergleicht eine Entität mit dem Text und prüft, ob eine fuzzy-Übereinstimmung vorhanden ist.
-    :param query: Der zu suchende Begriff (z. B. Absendername)
-    :param text: Der gesamte Text, in dem gesucht wird
-    :param threshold: Ähnlichkeitsschwelle (80% Standard)
-    :return: Gefundene Position oder None
+    Sucht den 'besten' unscharfen Treffer (Fuzzy-Match) für entity_value im text.
+    Nutzt RapidFuzz (fuzz.ratio) und gibt (start, end) im originalen Text zurück,
+    falls der Score >= threshold liegt, sonst None.
+
+    Parameter:
+      - entity_value: z. B. "Rechnung 133", "Klähblatt GmbH"
+      - text: der gesamte extrahierte PDF-Text
+      - threshold: Minimaler Score (0-100), ab dem ein Match akzeptiert wird
+
+    Rückgabe: (start, end) oder None
     """
-    words = text.split()
-    best_match = None
-    best_score = 0
+    if not entity_value or not text:
+        return None
+    
+    # Text z. B. in Zeilen oder Sätze aufteilen, hier simpel: Zeilen
+    lines = text.split('\n')
+    # Mit extractOne() kriegen wir den besten Match (string, score, index)
+    best = process.extractOne(entity_value, lines, scorer=fuzz.ratio)
+    
+    if best is None:
+        return None
 
-    for word in words:
-        score = fuzz.ratio(query.lower(), word.lower())
-        if score > best_score:
-            best_score = score
-            best_match = (text.find(word), text.find(word) + len(word))
-
-    return best_match if best_score >= threshold else None
-
-def find_entity_semantic(query, text):
-    """
-    Nutzt spaCy-Embeddings, um semantisch ähnliche Begriffe zu finden.
-    :param query: Der zu suchende Begriff
-    :param text: Der gesamte Text
-    :return: Beste gefundene Übereinstimmung (Start- und Endposition)
-    """
-    doc = nlp(text)
-    best_match = None
-    best_score = 0.0
-
-    for token in doc:
-        score = token.similarity(nlp(query))
-        if score > best_score:
-            best_score = score
-            best_match = (token.idx, token.idx + len(token.text))
-
-    return best_match if best_score > 0.7 else None  # Schwelle für semantische Ähnlichkeit
-
-def find_entity(query, text):
-    """
-    Sucht eine Entität im Text mit folgenden Methoden:
-    1. Exakte Übereinstimmung
-    2. Fuzzy Matching (80% Schwelle)
-    3. Wort-Embeddings (Semantische Ähnlichkeit)
-    :return: Position im Text (Start, Ende) oder None
-    """
-    # 1️⃣ Exakte Übereinstimmung
-    if query in text:
-        start_idx = text.find(query)
-        return start_idx, start_idx + len(query)
-
-    # 2️⃣ Fuzzy Matching
-    fuzzy_result = fuzzy_match(query, text)
-    if fuzzy_result:
-        return fuzzy_result
-
-    # 3️⃣ Embeddings für semantische Suche
-    embedding_result = embedding_match(query, text)
-    if embedding_result:
-        return embedding_result
-
-    return None  # Falls keine Methode erfolgreich war
-
-def find_best_match(query, text):
-    return find_entity(query, text)
+    best_string, score, line_idx = best
+    
+    if score < threshold:
+        return None
+    
+    # Suche best_string nochmals per exakter Suche in text
+    match = re.search(re.escape(best_string), text)
+    if match:
+        return (match.start(), match.end())
+    return None

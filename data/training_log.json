@@ -1,59 +1,405 @@
 [
     {
-        "text": "0_165_61_GB// 400292 2324 3428 1/2\n\n8\n[3\n3\n3\n8\n2\n&\n=\nFR\n8\n&\n8\n8\n8\n3\n\n0 2. DEZ. 2024\n#433\nJzuw\n\n**[Creditreform](absender)** Flensburg - Lise-Meitner-Str. 1 - 24941 Flensburg\n23 42C4 663D 93 4000 0071 i\nDV 11.24 0,85 Deutsche Post 9 j\n\nFirma\n**[ZvW Beteiligungen GmbH](empfänger)**\n\nCreditreform\n\nCreditreform Flensburg\nHanisch KG\nRegistrierter Inkassodienstleister\n\nLise-Meitner-Str. 1 24941 Flensburg\n\nTelefon: +49 461 50304-20\nTelefax: +49 461 50304-41\nE-Mail:\n\nc.windisch@flensburg.creditreform.de\n\nSITE www.creditreform.de/flensburg\n\nD 24960 Glücksburg\nAnsprechpartner: Carolin Windisch\n\nDatum: 26.11.2024\n\nInkasso-Sammelabrechnung Nr. 209/8187\nfür Gläubiger 209001317 - immo-admin24.de GmbH\nRechnung Nr. -\n\nSehr geehrte Damen und Herren,\n\nes liegen keine Abrechnungen vor.\n\nFür Fragen stehen wir Ihnen gern telefonisch unter +49 461 50304-50 zur Verfügung.\n\nMit freundlichen Grüßen\n\nMitglied im Bundesverband Sitz Flensburg Nord-Ostsee Sparkasse\nDeutscher Inkasso-Unternehmen e. V. Amtsgericht Flensburg IBAN: DE62217500000000283606\nHRA 2035 FL SWIFT-BIC: NOLADE21NOS\nUSt-IdNr. DE 134634162\nSteuer-Nr. 15/281/17204\n\n\n\n0000 p05s/ MIS166367850_165_61_GB// 400292 2324 3429 2/2\n\nAbschlussmeldung für Gläubiger Nr. 209001317 — immo-admin24.de GmbH Creditreform c\nAbrechnungszeitraum: 23.10.2024 - 26.11.2024 Erstellt am 26.11.2024\nAbschluss negativ\n\nVerfahrensart Mahnsache\nAktendatum: Hauptforderung: Abschlussgrund:\nKundennummer Aktenzeichen Schuldnername Übernahme Abschluss zu zahlen gezahlt offen|Bezeichnung\n080012 124-011 106418015209 **[SG](betreff)** Adriana Pricop, Petre 10.11.2022 25.11.2024 2.396,44 0,00 2.396,44 Schuldner unauffindbar\nPrico\nSumme j 2.396,44 0,00 2.396,44 Anzahl: 1\n\nAlle Beträge in Euro Seite 1 von 1",
-        "absender": {
-            "text": "Creditreform"
-        },
-        "empfänger": {
-            "text": "ZvW Beteiligungen GmbH"
-        },
-        "betreff": {
-            "text": "Abschlussmeldung SG Adriana Pricop-Petre Prico-AZ106418015209"
+        "text": "24 / 7 Real Estate Company Limited 0835565014690 account@sea-record-media.com 66 64 619 1421 106 / 51 , 105 / 52 Moo 1 Bophut Koh Samui , Surattani 84320 Thailand Invoice issued to : KoVi Grundstücks Gbr . 0014 Gildestrasse 5a Glücksburg 24960 Germany post@zvw-unternehmensgruppe.de Invoice Number 0216 PO Number Verwaltung V 45 - das Leistungsdatum entspricht dem Rechnungsmonat Invoice Date 24 / Dec / 2024 Due Date 24 / Dec / 2024 Invoice Total 266,00 EUR Balance Due 266,00 EUR Item Description Unit Cost Quantity Line Total VEREINSSTRASSE 45 Verwaltung002 monatliche Bearbeitungsgebühr für die Erstellung der jährlichen Betriebskostenabrechnungen pro Einheit in Verbindung mit den Immobiliendienstleistungen als nicht umlagefähige Kosten 2,00 EUR 7 14,00 EUR Verwaltung001 monatliche Bearbeitungsgebühr für Immobiliendienstleistungen pro Wohneinheit auf Grundlage des Vertrages mit Pauschalpreis pro Wohneinheit als nicht umlagefähige Kosten 36,00 EUR 7 252,00 EUR Invoice Terms : Payable upon receipt of the invoice Net 266,00 EUR Subtotal 266,00 EUR Total 266,00 EUR Paid to Date 0,00 EUR Balance Due 266,00 EUR KASIKORN BANK 139 - 3 - 57245 - 7 : Branch : THANON THEPKASATTRI PHUKET 58 / 34 Moo6 Rasada Sub-district Muang Phuket District Phuket Thailand EINGEGANGEN 230 AV 24. 12. 2024",
+        "entities": [
+            {
+                "start": 0,
+                "end": 34,
+                "label": "ABSENDER",
+                "soll": "247 Real Estate",
+                "ist": "24 / 7 Real Estate Company Limited"
+            },
+            {
+                "start": 183,
+                "end": 203,
+                "label": "EMPFÄNGER",
+                "soll": "KoVi",
+                "ist": "KoVi Grundstücks Gbr"
+            },
+            {
+                "start": 283,
+                "end": 302,
+                "label": "BETREFF",
+                "soll": "Rechnung 0216",
+                "ist": "Invoice Number 0216"
+            }
+        ],
+        "filename_entities": {
+            "absender": "247 Real Estate",
+            "empfänger": "KoVi",
+            "betreff": "Rechnung 0216"
+        }
+    },
+    {
+        "text": "So erreichen Sie uns : 0461 / 487 4425 Einbauort Ihrer Zä hler : Speicherlim e 42 24937 Flensburg - Unterschrift- Stadtwerke Flensburg GmbH Batteriestraß e 48 - 24939 Flensburg 1.\n\nProjekt Speicherlinie 42 GmbH Gildestr . 5a 24960 Glü cksburg ( Ostsee ) Kunden-Nr . / GP-Nr . : 1000236045 Kartennummer : 2021 bitte freimachen Deutsche Post O ?\n\nWERBEANTWORT Stadtwerke Flensburg GmbFI Postfach 27 51 24917 Flensburg stadtwerke Miii / fT flensburg Zä hlerstä nde selbst ablesen - einfach und schnell Sehr geehrte Kundin , sehr geehrter Kunde , fü r Ihre Jahresabrechnung werden Ihre Zä hlerstä nde benö tigt .\n\nBitte lesen Sie Ihre Zä hlerstä nde fü r Strom und ggf. fü r Wä rme und Wasser bis spä testens zum angegebenen Datum ( siehe rechts ) ab .\n\nWichtige Hinweise Die Karte wird maschinell gelesen .\n\nSonstige Hinweise kö nnen leider nicht bearbeitet werden Geben Sie bitte alle Ziffern - auch Nullen - vollstä ndig hintereinander ohne Bindestrich und ohne Komma ein .\n\nErlä uternde Hinweise dazu erhalten Sie umseitig Zur Ü bermittlung Ihrer Zä hlerstä nde kö nnen Sie zwischen folgenden Wegen wä hlen : - per INTERNET unter stwfl.ablesung.de - oder per TELEFON unter ( 0461 ) 4 87 44 25 - per beigefü gter , heraustrennbarer POSTKARTE .\n\nBitte frankieren Sie diese entsprechend .\n\nVielen Dank fü r Ihre Mithilfe !\n\nIhre Stadtwerke Flensburg GmbH Zu Ihrer Information .\n\nDie Stadtwerke Flensburg GmbH als Ihr zustä ndiger Netzbetreiber und Messdienstleister ist fü r die Ablesung der im Netz vorhandenen Zä hler zustä ndig .\n\nBitte lesen Sie daher , unabhä ngig von Ihrem gewä hlten Energieversorger , die Zä hler in jedem Fall ab .\n\nIhre Logindaten fü rs Internet : Kartennummer : 2021 Zä hlernummer : 78317 Rü ckgabe der Karte bis spä testens : 31. 12. 2024 Strom Zä hler:78317 Kz : 1 - 1:1.8.0 Bei Ihnen zu Hause befinden sich : 1 Stromzä hler Barcode-Nr . : 00100412202460014295 Neuer Zä hler ?\n\nSo ü bermitteln Sie uns ganz einfach Ihren Zä hlerstand : unter stwfl.ablesung.de Ihre Zugangsdaten hierzu finden Sie umseitig im unteren Feld auf der rechten Seite Telefonnummer fü r Rü ckfragen Ablesedatum oder per Antwortpostkarte . oder telefonisch unter 0461 / 487 4425 Ablesebeispiel - Bitte achten Sie beim Einträ gen auf die Kommastellung ! stadtwerke Flensburg So lesen Sie Ihre Zä hlerstä nde ab : 12 345,6 kWh Strom ( 1.8.0 ) Stand : 1 2 3 4 5 6 / 1.8.1 12345,6 kWh B Drehstromzä hler Zä hlernummer : 3.123.456.7 Stadtwerke Flensburg 3.123.456.7 Stadtwerke Flensburg 1234 5678 9123 4567 Strom ( i.8.i , i.8.2 ) Stand 1.8.1 : 1 2 3 4 5 6 / Stand 1.8.2 : 1 2 3 4 5 6 f Zä hlernummer : 1234 5678 9123 4567 0055,131 MWh Stadtwerke Flensburg 812345 x / Fernwä rme Stand : 0 0 5 5 1 3 1 / Zä hlernummer : 812345 Wasser Stand : 00154 010 / Zä hlernummer : 123456 I",
+        "entities": [
+            {
+                "start": 114,
+                "end": 134,
+                "label": "ABSENDER",
+                "soll": "Stadtwerke Flensburg",
+                "ist": "Stadtwerke Flensburg"
+            },
+            {
+                "start": 358,
+                "end": 378,
+                "label": "ABSENDER",
+                "soll": "Stadtwerke Flensburg",
+                "ist": "Stadtwerke Flensburg"
+            },
+            {
+                "start": 1326,
+                "end": 1346,
+                "label": "ABSENDER",
+                "soll": "Stadtwerke Flensburg",
+                "ist": "Stadtwerke Flensburg"
+            },
+            {
+                "start": 1380,
+                "end": 1400,
+                "label": "ABSENDER",
+                "soll": "Stadtwerke Flensburg",
+                "ist": "Stadtwerke Flensburg"
+            },
+            {
+                "start": 2429,
+                "end": 2449,
+                "label": "ABSENDER",
+                "soll": "Stadtwerke Flensburg",
+                "ist": "Stadtwerke Flensburg"
+            },
+            {
+                "start": 2462,
+                "end": 2482,
+                "label": "ABSENDER",
+                "soll": "Stadtwerke Flensburg",
+                "ist": "Stadtwerke Flensburg"
+            },
+            {
+                "start": 2632,
+                "end": 2652,
+                "label": "ABSENDER",
+                "soll": "Stadtwerke Flensburg",
+                "ist": "Stadtwerke Flensburg"
+            },
+            {
+                "start": 447,
+                "end": 461,
+                "label": "BETREFF",
+                "soll": "Zählerstände-KN 1000236045",
+                "ist": "Zä hlerstä nde"
+            },
+            {
+                "start": 582,
+                "end": 596,
+                "label": "BETREFF",
+                "soll": "Zählerstände-KN 1000236045",
+                "ist": "Zä hlerstä nde"
+            },
+            {
+                "start": 631,
+                "end": 645,
+                "label": "BETREFF",
+                "soll": "Zählerstände-KN 1000236045",
+                "ist": "Zä hlerstä nde"
+            },
+            {
+                "start": 1047,
+                "end": 1061,
+                "label": "BETREFF",
+                "soll": "Zählerstände-KN 1000236045",
+                "ist": "Zä hlerstä nde"
+            },
+            {
+                "start": 2293,
+                "end": 2307,
+                "label": "BETREFF",
+                "soll": "Zählerstände-KN 1000236045",
+                "ist": "Zä hlerstä nde"
+            },
+            {
+                "start": 268,
+                "end": 288,
+                "label": "BETREFF",
+                "soll": "Zählerstände-KN 1000236045",
+                "ist": "GP-Nr . : 1000236045"
+            },
+            {
+                "start": 181,
+                "end": 210,
+                "label": "EMPFÄNGER",
+                "soll": "1. Projekt Speicherlinie 42 GmbH",
+                "ist": "Projekt Speicherlinie 42 GmbH"
+            }
+        ],
+        "filename_entities": {
+            "absender": "Stadtwerke Flensburg",
+            "empfänger": "1. Projekt Speicherlinie 42 GmbH",
+            "betreff": "Zählerstände-KN 1000236045"
+        }
+    },
+    {
+        "text": "FLENSBURCo Zwischen Himmel und Fö rde Mellern Kimme ! og fjord STADT FLENSBURG DER OBERBÜ RGERMEISTER Stadt Flensburg - 330 - 24931 Flensburg KoVi Grundstü cks GbR Gildestr . 5 A 24960 Glü cksburg Fachbereich Einwohnerservice , Schutz und Ordnung 330 Bü rgerbü ro Auskunft erteilt Ihr Servicetelefon Dienstgebä ude Rathausplatz 1 Zimmer 119 Telefon 0461 85 - 2124 Telefax 0461 85 - 1667 E-Mail buergerbuero@flensburg.de Aktenzeichen AE Datum 03. 12. 2024 Wohnungsanfrage nach 19 Abs. 5 Bundesmeldegesetz ( BMG ) Sehr geehrte Damen und Herren , es wurde bekannt , dass nachfolgende Person Familienname : Petersen Vornamen : Paul Edwin nicht mehr unter der Anschrift Norderstraß e 121 A 24939 Flensburg wohnen soll .\n\nNach 19 Abs. 5 BMG sind Sie als Wohnungsgeber/-eigentü mer gegenü ber der Meldebehö rde verpflichtet , Auskunft hierü ber zu erteilen .\n\nSie werden deshalb gebeten , anhä ngendes Formular bis spä testens 23. 12. 2024 vollstä ndig auszufü llen , zu unterschreiben und zurü ckzusenden .\n\nMit freundlichen Grü ß en Im Auftrag Dagmar Schulz Lieferanschrift : Rathausplatz . 1 24937 Flensburg Telefon : 0461 /85 - 0 Telefax : 0461 / 85 - 2971 Internet : www.ftensburg.de USt-ldNr .\n\nDE 134643180 St.-Nr . 15 290 08064 Ö ffnungszeiten : Nord-Ostsee-Sparkasse Mo. 07.30 - 17.00 Uhr IBAN : DE20 2175 0000 0000 2799 00 Di. geschlossen BIC : NOLADE2 1NOS Mi. 07.30 - 13.00 Uhr Glä ubiger-ID : DE17ZZZ00000012855 Do. 07.30 - 17.30 Uhr Fr. 07.30 - 12.00 Uhr Einheitliche Behö rdenrufnummer 115 Montag bis Freitag 08.00- 18.00 Uhr Postbank Hamburg IBAN : DE26 2001 0020 0003 5642 09 BIC : PBNKDEFF200 Glä ubiger-ID : DE17ZZZ00000012855 KoVi Grundstü cks GbR Gildestr . 5 A 24960 Glü cksburg Rü ckantwort : Stadt Flensburg Meldebehö rde Rathausplatz 1 24937 Flensburg Wohnungsanfrage ü ber Petersen , Paul Edwin Ihre Anfrage vom : 03. 12. 2024 Petersen , Paul Edwin ( Zutreffendes bitte ankreuzen oder ausfü llen ) ist noch immer unter der von Ihnen angegebenen Anschrift wohnhaft . ist verzogen am : nach : Datum Postleitzahl , Wohnort Straß e , Hausnummer , Adressierungszusä tze hier nicht mehr wohnhaft seit : Eine neue Anschrift ist nicht bekannt .\n\nDatum J hier nie wohnhaft gewesen . ( Ort und Datum ) ( Unterschrift ) Seite 2 von 2",
+        "entities": [
+            {
+                "start": 102,
+                "end": 117,
+                "label": "ABSENDER",
+                "soll": "Stadt Flensburg",
+                "ist": "Stadt Flensburg"
+            },
+            {
+                "start": 1709,
+                "end": 1724,
+                "label": "ABSENDER",
+                "soll": "Stadt Flensburg",
+                "ist": "Stadt Flensburg"
+            },
+            {
+                "start": 142,
+                "end": 146,
+                "label": "EMPFÄNGER",
+                "soll": "KoVi",
+                "ist": "KoVi"
+            },
+            {
+                "start": 1639,
+                "end": 1643,
+                "label": "EMPFÄNGER",
+                "soll": "KoVi",
+                "ist": "KoVi"
+            },
+            {
+                "start": 264,
+                "end": 272,
+                "label": "BETREFF",
+                "soll": "Wohnungsanfrage-AZ AE",
+                "ist": "Auskunft"
+            },
+            {
+                "start": 819,
+                "end": 827,
+                "label": "BETREFF",
+                "soll": "Wohnungsanfrage-AZ AE",
+                "ist": "Auskunft"
+            }
+        ],
+        "filename_entities": {
+            "absender": "Stadt Flensburg",
+            "empfänger": "KoVi",
+            "betreff": "Wohnungsanfrage-AZ AE"
+        }
+    },
+    {
+        "text": "American Express Platinum Card americanexpress.de\n\nSie erreichen Ihren\n\nMonatsabrechnung EINGERANFE: Hu eh a ur\n\n07. OKT. 2024 hs\nIhre Karten-Nr. Datum\ni m\nHERRN JENS ZIESEMER VON WILDENRADT XRXX-XXXXRX 61005 27.09.24\n'hlend\nAbreehnungimEUR Bahr. MER NR TREUR Belag InFUR\n\n8.185,77| . R 2.046,42 - 8.185,77\n\nIle Zahlungsvereinbarung mit uns EN : Bene ; N\nen tik am Vamnatean Financial-Relief-Programm teil. Sie befinden sich im 4. Monat des 12-monatigen\n\n5 Kennt wurde gekündigt. Bitte zahlen Sie den noch offenen Gesamtsaldo. Senden Sie uns alle Karten zurück.\n\nAbrechnungszeitraum vom 28.08.24 bis 27.09.24\n\nUmsatzvom Buchungsdatum Details Betrag in Fremdwährung Betrag EUR\nDIN NT EZ ERREGT\n01.09 05.09 RETOURNIERTE LASTSCHRIFT o Rate\n\nHLUNG,\n\na\n\nN JENS ZIESEMER VON WILDENRADT\n\nSaldo des laufenden Monats für HERR\n\nKarten-Nr. xxxx-00xxx-61005\n\n‚American Express Europe S.A, (Germany branch), Theodor-Heuss-Allee 112, 60486 Frankfurt a. M., Registergericht Frankfurt am Main, HRB 112342\nAmerican Express Europe S.A. hält eine Erlaubnis der Banco de Esparia mit Sitz in Spanien zur\nErbringung von Zahlungsdiensten gemäß den Vorschriften über die Erbringung von Zahlungsdiensten; Referenznummer 6.837.\n\nZahlungsart und Kontakt\nIhre Karten-Nr.\n\nXRXK-XXXXXX-61005 Lastschrift\nWenn Sie am Lastschriftverfahren teilnehmen wird der.\nRechnungsbetrag von Ihrem Bankkonto abgebucht.\n\nZahlung per Überweisung\n\nZD 01 009901 30596H23 A\"\"SNGLP Bankverbindung:\n\nHERRN JENS ZIESEMER VON WILDENRADT Deutsche Bank AG\n5 GILDESTRASSE 5A IBAN DEO5500700100095599700\n24960 GLUECKSBURG BIC  DEUTDEFFXXX\n\"5 GERMANY\n\nKontakt\n\nAmerican Express Europe S.A.\n(Germany branch)\nTheodor-Heuss-Allee 112\n60486 Frankfurt am Main\nTelefon +49 (0)69 9797 1000\namericanexpress.de\n\n000000380 JGDEIRI6\n\nBitte vermerken Sie Ihre Kartennummer auf allen\nÜberweisungen und Korrespondenzen an uns,\n\nea American Express Platinum Card\n\n Monatsabrechnung;..n;\nBe Seite 2von3\nAngefertigt für Ihre Karten-Nr. Datum\nHERRN JENS ZIESEMER VON WILDENRADT XRXX-XRXKRK-61005 27.09.24\n\nAktuelle Informationen für Sie\n\nWichtige Informationen für Karteninhaber zum American Express Financial-Relief-Programm\n\nMit Ihrer Teilnahme am American Express Financial Relief Programm begleichen Sie unsere offene Forderung in monatlichen\nRaten innerhalb eines Zeitraums von 12 Monaten. Sie können am Ende der Laufzeit des Programms alle Ihre American Express\nKarten (sowie ggfls, dazugehörige Zusatzkarten) wieder wie gewohnt im Rahmen des jeweilig bestehenden Kartenvertrages\nnutzen, wenn Sie die monatlich angeforderten Beträge, die auf Seite 1 Ihrer Monatsabrechnung angegeben sind, spätestens zu\ndem jeweiligen ebenfalls auf Seite 1 angegebenen Fälligkeitstermin zahlen. Sofern Sie bereits bisher. per Lastschrifteinzug\nzahlen, werden wir den im Rahmen des Programms jeweils fälligen Betrag zum Fälligkeitszeitpunkt von Ihrem\n\nBankkonto einziehen, Sollten Sie zur weiteren Reduzierung Ihres Saldos zusätzliche Zahlungen leisten wollen, können Sie\ndas jederzeit tun. P ji\n\nWichtigste Merkmale des Programms\n\n- Sie befinden sich jetzt in Monat 4 dieses 12-Monats-Programms.\n\n- Für die Zeit Ihrer Teilnahme an diesem 12-Monats-Programm werden Sie den zu Beginn Ihrer Teilnahme an\ndem Programm ausstehenden Betrag an uns in12 gleichbleibenden monatlichen Zahlungen zuzüglich\neventueller neuer Ausgaben oder sonstiger Belastungen Ihrer Karte im vorausgegangenen Monat an uns zurückzahlen,\n\n- Der von Ihnen monatlich zu zahlende Betrag beträgt Euro 682,14 zuzüglich eventueller\nneuer Ausgaben oder sonstiger Belastungen Ihres Kontos im Vvorausgegangenen Monat.\n\n- Informationen über eventuelle neue Ausgaben oder sonstige Belastungen Ihres Kontos im letzten Monat ersehen\nSie auf Ihrer Monatsabrechnung/den Transaktionsdetails (Hinweis: Mit dem Verweis auf sonstige Belastungen\nsind auch sonstige Belastungen abgedeckt, die nach Klärung von streitigen Belastungen zu Lasten Ihrer Karte\ngebucht werden).\n\n- Alle Ihre American Express Karten (und ggfls. vorhandene Zusatzkarten) werden während der Dauer des\nProgramms gesperrt. Nicht nur die Karte, mit der Sie an dem Programm teilnehmen, Dennoch können einige\nlaufende Ausgaben (z. B. für Versicherungsprämien, Musik-/Digital-Abonnements oder Transport-/Zoll .\n-Dienstleistungen) trotzdem Ihren Karten belastet werden. Diese müssen Sie wie in den Mitgliedschaftsbedingungen\n(\"MGB') zu Ihrer Karte vereinbart, im Rahmen des monatlichen Abrechnungsturnus begleichen (s. Teil l, Ziffer 4\nder MGB). Wir empfehlen Ihnen, diese Akzeptanzpartner zu DREI) und ihnen eine andere Zahlweise\n\ni i iner Unterbrechung der Dienstleistung vorzubeugen. UL \\\nee a am Balrehren und Ihre fälligen monatlichen Zahlungen rechtzeitig leisten, N “\nwir auf das Monatsentgelt für die Karte, mit der Sie am Programm teilnehmenden. Sofern Sie ein Jahresentgel\n\nzahlen und ein neues Jahresentgelt wird fällig, während Sie an dem Programm teilnehmen, a\nverzichten wir auf dieses Jahresentgelt, vorausgesetzt, Sie leisten Ihre fälligen monatlichen i un\nrechtzeitig. Der Verzicht auf das während des laufenden Programms fällig werdende Jahresent ge en } N\nProgramm teilnehmende Karte steht unter dem Vorbehalt, dass Sie an dem Programm über die volle Laufzei\n\nten teilnehmen, \\ ; er\nN Programm vorzeitig beenden (aus welchem Grund auch immer), haben Sie das anteilige\n\nTEE ETETEETEEEEETEEEETETTTEETETEERETETE\nHinweise zu Ihrer Kartenabrechnung\n\nichti i } falls Sie weitere Informationen über eine Belastung\n\nÜ ü ie] ng auf Richtigkeit und wenden Sie sich unverzüglich an uns, i j n\n\nle benange ade: ne Frage bzw. Bedenken hinsichtlich Ihrer Abrechung oder einer darin le Lin Sms\n\nse A eröllenfer uns etwaige nicht autorisierte oder fehlerhaft N a sohn el\n\nigen. wi n davon aus, dass dies innerhalb eines (1) Monats nach Zu: ! j Dr\n\nN von Belastungen nicht innerhalb dieses Zeitraumes oder Spätestens NEID SH SHR Sa\n\nSa N Abrechnung bestreiten, sind Ansprüche und Einwendungen gegen En N nn a En, DIS DEBN.\n\nale) ausgeschlossen. ne int In N S En Eee u en\ni Itend gemacht werden, wenn Sie ohne Verscl 1 Ei\nen Ge Abrechnung und Kenntnisnanmemöglichkeit der strittigen Kartenbelastung zu laufen.\n\nris\n\ni ird ei i tsprechenden\ni i ‚den, wird ein Entgelt in Höhe von 2 % auf denen 1\ni ‚d.h. bei Umsätzen, die nicht in Euro getätigt werden, . SR\nDen) in Höhe von 2 % fallt nur einmal pro En N an N N U an iR Be en\ni i i it zunächst eine Umrechnu i \\ i\nASS nee: ME elnaae Um nur einmal berechnet. Informationen zu den Referenzwechselkursen finden Sie\ndas Entgelt in\n\nbequem unter americanexpress.de/rechner.\n\nje sind ver] r en auf RIC eit zu überprüfen und u anstandungen binnen eines\ns d pflichtet die Membership Rewa ds Transaktionen a ichtigkei berp nd uns etwaige Beanstandung\n\nie si flich hip R i ti f Richt t fi t\n\nMonats nach Zugang in Textform anzuzeige\n\n009201 2/2\n\nAmerican Express Platinum Card\n\nee ANGEN AL\nN Monatsabrechnung EINGERANGE # Std\n07. OKT. 2024\nSeite 3 von.\nAngefertigt für Ihre Karten-Nr. Datun\nHERRN JENS ZIESEMER VON WILDENRADT XRXX-XXRRXX-61005 27.09.24\n\nJahresentgelt für den Zeitraum ab Abschluss des Programms bis zum nächsten Fälligkeitstermin des\nJahresentgelts zu zahlen.\n\n- Wenn Sie die verlangten Zahlungsbeträge termingerecht leisten (und Ihre Verpflichtungen aufgrund des\nKartenvertrags einhalten), werden wir nach Beendigung des 12-Monats-Zeitraums Ihre Karte (sowie ggfls.\nvorhandene Zusatzkarten) wieder für die Nutzung freischalten.\n\nWas geschieht, wenn Sie die angeforderten Zahlungen nicht termingerecht leisten?\n\nSollten Sie während des 12-Monats-Zeitraums die fälligen Zahlungen nicht leisten oder die Bedingungen Ihres Kartenvertrags\nnicht einhalten, endet die Teilnahme an dem Programm automatisch und wir sind berechtigt, den Kreditkartenvertrag mit\nIhnen außerordentlich zu kündigen sowie den nicht bezahlten Saldo einzufordern.\n\nAbschluss des American Express Financial Relief Programms\n\nEs gibt zwei Möglichkeiten für den Abschluss des Programms und die Wiederaufnahme der normalen Nutzung ihrer American\nExpress Karte/n (sowie gegebenenfalls vorhandener Zusatzkarten) einschließlich der Möglichkeit, neue Belastungen\nauszulösen,\n\n1. Rechtzeitige monatliche Zahlung der in den Monatsabrechnungen angegebenen fälligen Beträge bis zum Ende\ndieses 12-Monats-Programms.\n\nODER\n\n2. Zahlung des gesamten ausstehenden Saldos vor Abschluss des 12-Monats-Programms durch Banküberweisung\nunter Angabe Ihrer Kartennummer. Es ist erforderlich, dass Sie uns mitteilen, wenn Sie Ihre Teilnahme am\nProgramm beenden wollen, indem Sie einen Mitarbeiter unseres Kundenservices anrufen, nachdem Sie den\nSaldo Ihrer American Express Karte/n ausgeglichen haben.\n\nWenn Ihre Teilnahme an dem Programm endet, sind die monatlichen Abrechnungsbeträge, wie im Kartenvertrag vereinbart\nind bis dato gehandhabt, wieder in voller Höhe zum Fälligkeitstermin zu zahlen.\n\nusatzinformationen zu Ihrem Konto\n\nitte informieren Sie die Inhaber von Zusatzkarten über die Sperrung der Zusatzkarten für die Dauer Ihrer Teilnahme\nah dem Programm.\n\nSollten Sie weitere Fragen haben, rufen Sie uns bitte unter 069 9797-1000 an.\nSie können sich über Ihren Konto-Status auch jederzeit über die Amex App oder Ihrem Konto Online",
+        "entities": [
+            {
+                "start": 0,
+                "end": 30,
+                "label": "ABSENDER",
+                "soll": "American Express Platinum Card",
+                "ist": "American Express Platinum Card"
+            },
+            {
+                "start": 1859,
+                "end": 1889,
+                "label": "ABSENDER",
+                "soll": "American Express Platinum Card",
+                "ist": "American Express Platinum Card"
+            },
+            {
+                "start": 6815,
+                "end": 6845,
+                "label": "ABSENDER",
+                "soll": "American Express Platinum Card",
+                "ist": "American Express Platinum Card"
+            },
+            {
+                "start": 122,
+                "end": 126,
+                "label": "BETREFF",
+                "soll": "Monatsabrechnung 09 2024",
+                "ist": "2024"
+            },
+            {
+                "start": 6904,
+                "end": 6908,
+                "label": "BETREFF",
+                "soll": "Monatsabrechnung 09 2024",
+                "ist": "2024"
+            },
+            {
+                "start": 162,
+                "end": 190,
+                "label": "EMPFÄNGER",
+                "soll": "JZvW",
+                "ist": "JENS ZIESEMER VON WILDENRADT"
+            },
+            {
+                "start": 751,
+                "end": 779,
+                "label": "EMPFÄNGER",
+                "soll": "JZvW",
+                "ist": "JENS ZIESEMER VON WILDENRADT"
+            },
+            {
+                "start": 1455,
+                "end": 1483,
+                "label": "EMPFÄNGER",
+                "soll": "JZvW",
+                "ist": "JENS ZIESEMER VON WILDENRADT"
+            },
+            {
+                "start": 1973,
+                "end": 2001,
+                "label": "EMPFÄNGER",
+                "soll": "JZvW",
+                "ist": "JENS ZIESEMER VON WILDENRADT"
+            },
+            {
+                "start": 6966,
+                "end": 6994,
+                "label": "EMPFÄNGER",
+                "soll": "JZvW",
+                "ist": "JENS ZIESEMER VON WILDENRADT"
+            }
+        ],
+        "filename_entities": {
+            "absender": "American Express Platinum Card",
+            "empfänger": "JZvW",
+            "betreff": "Monatsabrechnung 09 2024"
+        }
+    },
+    {
+        "text": "FGANSER S - FR 5 Schleswig-Holstein\nbe F Steuerverwaltung\n0. NOV. 2024 r\n\n2\n#700\ncs\n\nFinanzamt Flensburg | Postfach 1552 | 24905 Flensburg\n\nIdentifikations-\nnummer:\nAktenzeichen: 15/199/13211 u.a. - 17/16\nFrau a Bearbeiter: Frau Kleeberg-Fussy\nSaskia Larah Deborah von Wildenradt Zimmer: 170\nGildestr. 5a Kontakt: über www.elster.de\n24960 Glücksburg Telefon: 0461 813- 238\n\nTelefax: 0461 813- 243\n\n15.11.2024\n\nFrist: bis zum 25.11.2024\n\nVollstreckungsankündigung\nIhr Schreiben vom 04.11.2024, Eingang im Finanzamt Flensburg am 11.11.2024\nSehr geehrte Frau von Wildenradt,\n\nSie schulden dem Land Schleswig-Holstein 838.393,70 €. Eine Aufstellung über die Rück-\nstände finden Sie am Ende dieses Schreibens.\n\nÜberweisen Sie bitte 838.393,70 €\nbis zum 25.11.2024\n\nauf ein genanntes Konto mit dem Verwendungszweck\n\"15/199/13211 u.a. - 17/16 VOA 15.11.2024\".\n\nPostanschrift: Finanzamt Flensburg, Postfach 1552, 24905 Flensburg | Telefon 0461 813-0 | poststelle@fa-flensburg.landsh.de |\nZugang: Parkplatz Waldstr. 1, 24939 Flensburg (behindertengerecht) |\n\nBusverbindung: AktivBus GmbH : Linie 3 und Linie 4| Termine nur nach Vereinbarung |\n\nBankverbindung: Deutsche Bundesbank, ‘Filiale Hamburg| IBAN DE27 2000 0000 0020 2015 00 | BIC MARKDEF1200]|\nE-Mail-Adressen: Kein Zugang für elektronisch signierte oder verschlüsselte Dokumente |\n\nBV_VO_015, Vollstreckungsankündigung ’ ,\nAktenzeichen: 15/199/13211 u.a. - 17/16 . 15.11.2024 .\n\nWirksam geleistet ist Ihre Zahlung erst mit Gutschrift auf einem angegebenen Konto der Fi-\nnanzverwaltung. Scheckzahlungen gelten erst drei Tage nach dem Eingangsdatum als wirk-\nsam geleistet.\n\nWenn Sie den Gesamtbetrag nicht fristgerecht bezahlen, müssen Sie mit kostenpflichtigen\nVollstreckungsmaßnahmen und einem Kontenabruf rechnen.\n\n-Sollten Sie den angeforderten Betrag bereits bezahlt haben oder die Zahlungsaufforderung\naus anderen Gründen als ungerechtfertigt ansehen, teilen Sie dies bitte umgehend der Erhe-\nbungsstelle des Finanzamts mit.\n\n. Ich merke an, dass am 02.12.2024 weitere 2.396,92 € fällig werden.\n\nRückstandsaufstellung:\n\n0\non\n.\n\nLfd. Schuldgrund Fälligkeit Schuldbetrag Säumniszuschläge\nNr. ' € € berechnet bis\n-1- -2- -3- -4- B -6-\n| __1lEinkommensteuer 01662 |18012024 | 75907054| . 959,00|15.11.2024 |\n| __2]Einkommensteuer (Zinsen 'Vol)20166 . [101.202 | srl — | |\n| _ 3[Kichensteuer ev 2016 60702 10202 | oc D—D—D—3—3 | |\n.L Also Zusch Est 206 DD 18010004 | 65  __65,00115.11.2024 |\n| 5jEinkommensteuer 200770°027DODOOO 18.012024 | 59121000] 59.120,00|15.11.2024 |\n[__6| Einkommensteuer (Zinsen 'Voll)20077°°24_ |ıs0202 | BE — |]\n1801202 | 3 HC DD — | |\n| 8|ScidZusccESt2077.öOU—ö—_—_—mD3 2  — |18.012002 | 22514241] __3.250,00|15.11.2024 |\n[__9]Einkommensteuer 20822 118.012002 | 2593500] 2.590,00] 15.11.2024\n| _10]Einkommensteuer (Zinsen Vol) 200182 101202 | Tl DD |\n| 11|lKirchensteuer ev 2018 0707 — 18000 | Dal — ———— | |\n| 12|SoidZusch Est 2018 LTR 18012024 | 14262] 140,001 15.11.2024 |\n.|__13 Einkommensteuer 1120024 . [100322024 | 10020] _ *_90,00|15.11.2024 |\n| _15]Einkommensteuer3.V,2024 100202 | 100200] 30,00|15.11.2024 |\n| _16]Vollstreckungskosten 202 02) 2 |o202 | a | |\n0202 | 3 3 5]\n| __18]Volistreckungskosten 0520 01) 2 202 | 3 a]\n[_19]Vollstreckungskosten 0202 01) oc | a |\nSummen \"\nSumme Spalten 4 +5\nBisher entstandene Vollstreckungskosten | 0,00]\nGesamtbetrag \"\n\n„Rechtsgrundlagen: - —. nn m an Bu\n- Tag der Zahlung\n\n8 224 Absatz 2 Abgabenordnung (AO)\n- Säumniszuschläge\n\n8 240 Absatz‘1 AO\n.-  Kontenabruf\n\n8 93 Absatz 7 AO\n\nMit freundlichen Grüßen\nIhr Finanzamt\n\nBV_VO_015, Vollstreckungsankündigung\nAktenzeichen: 15/199/13211 u.a. - 17/16° 15.11.2024\n\nee 0000000007070\n\nDatenschutzhinweis .\nInformationen über die Verarbeitung personenbezogener Daten in der Steuerverwaltung und über Ihre Rechte\n\nnach der Datenschutz-Grundverordnung sowie über Ihre Ansprechpartner in Datenschutzfragen entnehmen Sie\nbitte dem allgemeinen Informationsschreiben der Finanzverwaltung. Dieses Informationsschreiben finden Sie un-\nter www finanzamt.de (unter der Rubrik „Datenschutz‘) oder erhalten Sie bei Ihrem Finanzamt.",
+        "entities": [
+            {
+                "start": 85,
+                "end": 104,
+                "label": "ABSENDER",
+                "soll": "Finanzamt Flensburg",
+                "ist": "Finanzamt Flensburg"
+            },
+            {
+                "start": 504,
+                "end": 523,
+                "label": "ABSENDER",
+                "soll": "Finanzamt Flensburg",
+                "ist": "Finanzamt Flensburg"
+            },
+            {
+                "start": 869,
+                "end": 888,
+                "label": "ABSENDER",
+                "soll": "Finanzamt Flensburg",
+                "ist": "Finanzamt Flensburg"
+            },
+            {
+                "start": 244,
+                "end": 279,
+                "label": "EMPFÄNGER",
+                "soll": "SvW",
+                "ist": "Saskia Larah Deborah von Wildenradt"
+            },
+            {
+                "start": 437,
+                "end": 462,
+                "label": "BETREFF",
+                "soll": "Vollstreckungsankündigung-AZ 1519913211",
+                "ist": "Vollstreckungsankündigung"
+            },
+            {
+                "start": 1343,
+                "end": 1368,
+                "label": "BETREFF",
+                "soll": "Vollstreckungsankündigung-AZ 1519913211",
+                "ist": "Vollstreckungsankündigung"
+            },
+            {
+                "start": 3559,
+                "end": 3584,
+                "label": "BETREFF",
+                "soll": "Vollstreckungsankündigung-AZ 1519913211",
+                "ist": "Vollstreckungsankündigung"
+            },
+            {
+                "start": 165,
+                "end": 191,
+                "label": "BETREFF",
+                "soll": "Vollstreckungsankündigung-AZ 1519913211",
+                "ist": "Aktenzeichen: 15/199/13211"
+            },
+            {
+                "start": 1373,
+                "end": 1399,
+                "label": "BETREFF",
+                "soll": "Vollstreckungsankündigung-AZ 1519913211",
+                "ist": "Aktenzeichen: 15/199/13211"
+            },
+            {
+                "start": 3585,
+                "end": 3611,
+                "label": "BETREFF",
+                "soll": "Vollstreckungsankündigung-AZ 1519913211",
+                "ist": "Aktenzeichen: 15/199/13211"
+            }
+        ],
+        "filename_entities": {
+            "absender": "Finanzamt Flensburg",
+            "empfänger": "SvW",
+            "betreff": "Vollstreckungsankündigung-AZ 1519913211"
+        }
+    },
+    {
+        "text": "Anschrift Bauwirtschaft Nord Strandweg 2 24939 Flensburg USt-ID : DE361683024 Bankverbindung Daniel Vanhees Nord- Ostsee Spk Schleswig DE97 2175 0000 0166 5079 96 NOLADE21NOS Kontakt www.bwnord.de info@bwnord.de 0176 - 72626239 0461 - 49246417 Einzelunternehmen Daniel Vanhees 1 / 3 Arbeitsschein Termin Toilette leckt Datum 20. 09. 2024 Uhrzeit 12:00 Ausgeführt durch Maik Garnitz Projekt Toilette undicht Projektnummer : 24 - 00238 Kunde ZVW Beteiligungen GmbH Kundennummer : 10118 Ausführungsort Jenniefer Momsen Beethovenstraße 40 , 24943 Flensburg Arbeitsbericht BWN vor Ort Mieter anwesend , Mieter klagte über leckene Toilette Toilette demontiert zuschnitt neuer Anschlussrohre Toilette montiert Information : - an die Mieter gegeben , falls es wieder undicht sein sollte , BWN anrufen - vorerst wurde nicht absilikoniert , überprüfen auf Dichtigkeit und wenn BWN Maik in der Betthovenstraße vor Ort ist , absilikonieren Dokumentiert durch Maik Garnitz EINGEGANGEN 133 JZvW 01. 10. 2024 Anschrift Bauwirtschaft Nord Strandweg 2 24939 Flensburg USt-ID : DE361683024 Bankverbindung Daniel Vanhees Nord- Ostsee Spk Schleswig DE97 2175 0000 0166 5079 96 NOLADE21NOS Kontakt www.bwnord.de info@bwnord.de 0176 - 72626239 0461 - 49246417 Einzelunternehmen Daniel Vanhees 2 / 3 Samstag , 21. 09. 2024 17:19 Samstag , 21. 09. 2024 17:19 Samstag , 21. 09. 2024 17:19 Samstag , 21. 09. 2024 17:19 Bildmaterial Anschrift Bauwirtschaft Nord Strandweg 2 24939 Flensburg USt-ID : DE361683024 Bankverbindung Daniel Vanhees Nord- Ostsee Spk Schleswig DE97 2175 0000 0166 5079 96 NOLADE21NOS Kontakt www.bwnord.de info@bwnord.de 0176 - 72626239 0461 - 49246417 Einzelunternehmen Daniel Vanhees 3 / 3 Samstag , 21. 09. 2024 17:20",
+        "entities": [
+            {
+                "start": 10,
+                "end": 28,
+                "label": "ABSENDER",
+                "soll": "Bauwirtschaft Nord",
+                "ist": "Bauwirtschaft Nord"
+            },
+            {
+                "start": 1004,
+                "end": 1022,
+                "label": "ABSENDER",
+                "soll": "Bauwirtschaft Nord",
+                "ist": "Bauwirtschaft Nord"
+            },
+            {
+                "start": 1416,
+                "end": 1434,
+                "label": "ABSENDER",
+                "soll": "Bauwirtschaft Nord",
+                "ist": "Bauwirtschaft Nord"
+            },
+            {
+                "start": 440,
+                "end": 462,
+                "label": "EMPFÄNGER",
+                "soll": "ZvW Beteiligungen GmbH",
+                "ist": "ZVW Beteiligungen GmbH"
+            },
+            {
+                "start": 598,
+                "end": 633,
+                "label": "BETREFF",
+                "soll": "Toilette undicht-Projekt Nr 2400238",
+                "ist": "Mieter klagte über leckene Toilette"
+            },
+            {
+                "start": 407,
+                "end": 433,
+                "label": "BETREFF",
+                "soll": "Toilette undicht-Projekt Nr 2400238",
+                "ist": "Projektnummer : 24 - 00238"
+            }
+        ],
+        "filename_entities": {
+            "absender": "Bauwirtschaft Nord",
+            "empfänger": "ZvW Beteiligungen GmbH",
+            "betreff": "Toilette undicht-Projekt Nr 2400238"
         }
     }
-]{
-    "text": "24 / 7 Real Estate Company Limited 0835565014690 account@sea-record-media.com 66 64 619 1421 106 / 51 , 105 / 52 Moo 1 Bophut Koh Samui , Surattani 84320 Thailand Invoice issued to : KoVi Grundstücks Gbr . 0014 Gildestrasse 5a Glücksburg 24960 Germany post@zvw-unternehmensgruppe.de Invoice Number 0170 Invoice Date 24 / Oct / 2024 Due Date 24 / Oct / 2024 Invoice Total 266,00 EUR Balance Due 266,00 EUR Item Description Unit Cost Quantity Line Total VEREINSSTRASSE 47 Verwaltung002 monatliche Bearbeitungsgebühr für die Erstellung der jährlichen Betriebskostenabrechnungen pro Einheit in Verbindung mit den Immobiliendienstleistungen als nicht umlagefähige Kosten 2,00 EUR 7 14,00 EUR Verwaltung001 monatliche Bearbeitungsgebühr für Immobiliendienstleistungen pro Wohneinheit auf Grundlage des Vertrages mit Pauschalpreis pro Wohneinheit als nicht umlagefähige Kosten 36,00 EUR 7 252,00 EUR Invoice Terms : Payable upon receipt of the invoice Net 266,00 EUR Subtotal 266,00 EUR Total 266,00 EUR Paid to Date 0,00 EUR Balance Due 266,00 EUR KASIKORN BANK 139 - 3 - 57245 - 7 : Branch : THANON THEPKASATTRI PHUKET 58 / 34 Moo6 Rasada Sub-district Muang Phuket District Phuket Thailand EINGEGANGEN 231 AV 24. 10. 2024",
-    "entities": {
-        "absender": [
-            7,
-            11
-        ],
-        "empfänger": [
-            183,
-            187
-        ],
-        "betreff": [
-            298,
-            302
-        ]
-    }
-}{
-    "text": "team Tankstelle\nPeelwatt\nteam energie GmbH & U0.KG\nMarie Curie Ring 45\nan Flensburg\n&1{0461 )95 704886\nen\nSteuer-Nr.: DE 812833708\n\nx 55,25 Liter SÄULENNUMMER 2 *\n*Diese] A 92,76 EUR*\n1,679 EUR/Liter\n\n+ KUNBENBEL-E GH\nKar\n\nlermina inummer 74024679\nDatum 25.08.2024\nUhrzeit 10:33:11\nBeleg-Nr. 4\nTransakt ions-Hr, r 118620\nKar tenzahlung\ngirocard\nBetrag 2,76 EUR\nKarte IRHHEEN An,\n\nKartenfolgenummer\nEMY-AID\n\n) zn!\nIn gunasgN ir. 1417\nJAT\n0000048001 // A0U00003597020300\nContact\nee\n\ngirvvard 32,76 EUR\nTOTAL 92,76. EUR\nMUST 19,00% A 14,81 EUR\nNETTO 17,95 EUR BRUTTO 92,16 EUR\n\nVerkauf von kraftstoffen erfälgt\nin Nanen und für Rechnung der\ntean energie tinbH & Ca Kü\nHharie-Lurie-fing 2, 24941 Flensburg\nuSt-Id-Nrz DE 012839708\nDaten aus gegichten Anlagen sind durch (=)\ngekennzeichnet\n\nValunen konpansiert bei 15°\nlechnische Sicherheitseinrichlung\n\n0465-32- 3656038\nk 406 28.08.24 10:33 Frau Jessen IK.0001\n\nVielen Dank & Gute Fahrt\nTak for besoget og\nfortsat god tur!\n\nEZuwW Belabgenge-\nENERÄNBEN\n\n12. NOV. 2024\n#223\n{Zw",
-    "entities": {
-        "absender": [
-            0,
-            4
-        ],
-        "empfänger": [
-            38,
-            42
-        ],
-        "betreff": null
-    }
-}{
-    "text": "ZVW Beteiligungen GmbH HRB 10792 Flensburg USt-IdNr . : DE 261283151 www.zvw-unternehmensgruppe.de post@zvw-unternehmensgruppe.de Tel : 49 4631 9728794 Gildestrasse 5a Glücksburg 24960 Deutschland Felix Hentzen 8 Rotbuchenstieg 23 Hamburg 22297 Deutschland post@zvw- unternehmensgruppe.de Rechnungsnummer 20231564 Bestellnummer Hausmeisterei laut S 2 - das Leistungsdatum entspricht dem Rechnungsmonat Rechnungsdatum 26 - 12 - 2024 Fälligkeitsdatum 26 - 12 - 2024 Rechnungsbetrag 372,35 Artikel Beschreibung Einzelpreis Menge Summe 001 Hauswartkosten und Objektpflege laut Mietspiegel Schleswig-Holstein pro qm als umlagefähige Kosten Kosten für die Leistungen eines Hauswartes zur Bereitstellung der Mülltonnen und nach Leerung wieder zurück bringen , Kontrolle der Ordnung im Haus und Funktion der allgemeinen Technik in den Allgemeinbereichen .\n\nIm Aussenbereich für ständige Ordnung sorgen , regelmäßiges Fegen und entfernen von Unkraut .\n\nBei Unregelmäßigkeiten reporten an die Hausverwaltung 0,35 447 156,45 002 Objektpflege laut SH Mietspiegel per qm umlagefähig 0,13 447 58,11 003 Winterdienst laut Mietspiegel Schleswig-Holstein pro qm als umlagefähige Kosten Kosten für die Leistungen eines Winterdienstes vom 1.10. bis 31.3. eines jeden Jahres .\n\nRäumen und Streuen der Zuwegung zum Haus inkl.\n\nBürgersteig in der Breites des Hauses 0,07 447 31,29 004 Treppenhausreinigung laut Mietspiegel Schleswig-Holstein pro qm als umlagefähige Kosten Kosten für die Leistungen einer Reinigungskraft zur wöchentlichen Reinigung des Treppenhauses .\n\nDas Treppenhaus wird wöchentlich gefegt und gefeudelt .\n\nAlle 6 Monate werden die Handläufe und Fensterbänke gewischt .\n\nEinmal jährlich werden die Fenster geputzt 0,15 447 67,05 Netto 312,90 Zwischensumme 312,90 Umsatzsteuern 19 59,45 Gesamt 372,35 Bereits gezahlt 0,00 Offener Betrag 372,35 Zahlbar sofort nach Erhalt der Rechnung .\n\nWir bitten um Überweisung des Rechnungsbetrages auf unser Konto bei der Nord-Ostsee-Sparkasse IBAN : DE34 2175 0000 0165 6937 48 - BIC : NOLADE21NOS GF : Jens Ziesemer-von Wildenradt HRB 10792 Flensburg Wir bedanken uns für Ihren geschätzen Auftrag .\n\nEINGEGANGEN 162 AV 27. 12. 2024",
-    "entities": {
-        "absender": [
-            18,
-            22
-        ],
-        "empfänger": [
-            197,
-            210
-        ],
-        "betreff": [
-            289,
-            304
-        ]
-    }
-}
+]
