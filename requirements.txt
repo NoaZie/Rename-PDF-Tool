@@ -1,0 +1,10 @@
+tesseract
+pillow
+pytesseract
+pdfplumber
+spacy
+sqlalchemy
+fastapi
+uvicorn
+nextcloud-api-wrapper
+
